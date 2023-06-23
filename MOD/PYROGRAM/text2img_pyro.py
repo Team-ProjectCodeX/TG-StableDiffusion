@@ -1,7 +1,11 @@
-# Created by :- @ImmortalsXKing
+# SOURCE https://github.com/Team-ProjectCodeX
+# CREATED BY :- @ImmortalsXKing
+# PROVIDED BY https://t.me/ProjectCodeX
 
 import httpx
 from pyrogram import filters
+
+# REPO => Your Bots File Name
 from REPO import pbot as app
 
 api_key = ""  # Go to @MikuNakanoXBot and do /token and get your api key
